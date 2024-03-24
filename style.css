@@ -33,18 +33,18 @@ body {
   }
   
   .nav-link {
-    color: #2b3da5 !important;
+    color: #333 !important;
   }
   
   .nav-link:hover {
-    color: #162369 !important;
+    color: #979595 !important;
   }
   
   /* Jumbotron Styles */
   
   .jumbotron {
     background-color: #F4F3F2;
-    color: #2b3da5;
+    color: #333;
   }
   
   /* About Section Styles */
@@ -63,7 +63,7 @@ body {
   
   .project-card {
     transition: transform 0.3s ease-in-out;
-    border: 3px solid #000; 
+    border: 6px solid #000; 
   }
   
   .project-card:hover {
