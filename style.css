@@ -1,0 +1,102 @@
+/* Global Styles */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #F4F3F2;
+    color: #333;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-top: 0;
+  }
+  
+  a {
+    color: #007bff;
+  }
+  
+  a:hover {
+    color: #0056b3;
+    text-decoration: none;
+  }
+  
+  /* Navbar Styles */
+  
+  .navbar {
+    background-color: #F4F3F2 !important;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
+  
+  .nav-link {
+    color: #2b3da5 !important;
+  }
+  
+  .nav-link:hover {
+    color: #162369 !important;
+  }
+  
+  /* Jumbotron Styles */
+  
+  .jumbotron {
+    background-color: #F4F3F2;
+    color: #2b3da5;
+  }
+  
+  /* About Section Styles */
+  
+  #about {
+    background-color: #fff;
+    padding: 50px 0;
+  }
+  
+  /* Portfolio Section Styles */
+  
+  #portfolio {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+  }
+  
+  .project-card {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .project-card:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Contact Section Styles */
+  
+  #contact {
+    background-color: #fff;
+    padding: 50px 0;
+  }
+  
+  /* Footer Styles */
+  
+  footer {
+    background-color: #343a40;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  /* Social Media Icons */
+  
+  .social-icons {
+    font-size: 24px;
+  }
+  
+  .social-icons a {
+    color: #fff;
+    margin: 0 10px;
+  }
+  
+  .social-icons a:hover {
+    color: #007bff;
+  }
+  
